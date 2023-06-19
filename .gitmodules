@@ -1,0 +1,3 @@
+[submodule "html-parse-string"]
+	path = html-parse-string
+	url = git@github.com:qubitsky/html-parse-string.git
